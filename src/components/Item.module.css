@@ -1,0 +1,12 @@
+.kgItem {
+    background-color: khaki;
+    color: blue;
+}
+
+
+.buyButton {
+    margin-left: 20px;
+    float: right;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
